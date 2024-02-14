@@ -3,9 +3,7 @@
 
 
 This is the official page for the paper: <a href='https://aclanthology.org/2023.acl-long.528.pdf'> NEUROSTRUCTURAL DECODING: Neural Text Generation with Structural Constraints </a>  accepted at ACL2023.
- <!-- You can find our paper <a href='https://arxiv.org/abs/2205.04652'> here </a> -->
 
-<!-- Mohaddeseh Bastan, Nishant Shankar, Mihai Surdeanu, Niranjan Balasubramanian.  -->
 
 NEUROSTRUCTURAL DECODING is a new decoding algorithm that incorporates syntactic constraints to improve the quality of the generated text. We build NEUROSTRUCTURAL DECODING on the NeuroLogic Decoding (Lu et al., 2021) algorithm, which enables language generation models to produce fluent text while satisfying complex lexical constraints. It tracks lexico-syntactic constraints  during decoding by parsing the partial generations at each step.
 
