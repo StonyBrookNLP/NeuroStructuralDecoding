@@ -1,5 +1,5 @@
 ## What is NeuroStructural Decoding?
-### A neural text generation algorith that uses structural constraints for decoding.
+### A neural text generation algorith that leverages structural constraints for decoding.
 
 
 This is the official page for the paper: <a href='https://aclanthology.org/2023.acl-long.528.pdf'> NEUROSTRUCTURAL DECODING: Neural Text Generation with Structural Constraints </a>  accepted at ACL2023.
