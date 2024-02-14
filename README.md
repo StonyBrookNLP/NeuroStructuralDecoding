@@ -15,7 +15,7 @@ In the following example we see an example that compares the output produced by 
 <img src="assets/img/example.png" alt="Image of NeuroStructuralDecoding"/>
 
 ### Code
-Code can be in our <a href='https://github.com/StonyBrookNLP/NeuroStructuralDecoding'>. GitHub Page </a>
+Code can be in our <a href='https://github.com/StonyBrookNLP/NeuroStructuralDecoding'> GitHub Page</a>.
 
 
 
