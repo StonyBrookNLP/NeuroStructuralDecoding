@@ -1,4 +1,4 @@
-## What is NeuroStructuralDecoding?
+## What is NeuroStructural Decoding?
 ### It is a neural text generation algorith that uses structural constraints for decoding.
 
 
