@@ -36,7 +36,8 @@ results = decoder.generate_with_constraints("Generate:", concepts=["dog", "run",
 - **Triplet Constraints**: Complex structural patterns involving three tokens
 
 ### Parser Integration
-- **DirectParserAdapter**: Uses your trained parser (best_parser.th) - the ONLY parser used
+- **DirectParserAdapter**: Uses your trained parser (best_parser.th)
+- You can download the parser from <a href='https://drive.google.com/file/d/1crjCoUs9KK3S83QT0edpycv-g8V6NK4H'> here</a>
 
 ### Generation Process
 1. Structural constraint extraction from concept sets
